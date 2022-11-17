@@ -1,3 +1,4 @@
+![Circle Matrix](https://user-images.githubusercontent.com/24304903/202457103-f25347ac-31b3-4571-bd39-2f358a86267a.png)
 # Circle-Matrix
 This is part of University of Mennisota Lab Exercise 
 The main Lab is found on this page:
