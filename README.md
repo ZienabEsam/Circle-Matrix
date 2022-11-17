@@ -7,3 +7,5 @@ https://www.d.umn.edu/~tcolburn/cs2511/javalabs/javaFX/javaFX.xhtml
 You can downoad the scr file or download the Zip file and open it with your IDE
 
 I only worked on the enlage and shrink part the rest will be in another repo.
+
+This is a good excersice for JAVAFX application as a start, you can begin part of the excersice then add the rest, you don't have to create the whole thing in one time.
